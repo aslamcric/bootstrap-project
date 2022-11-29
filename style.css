@@ -1,0 +1,68 @@
+.nav-ban {
+    background-color: #F0FFF0;
+}
+.logo {
+    width: 199px;
+}
+.nav-part {
+    background-color: #F0FFF0;
+}
+.btn {
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    
+    ;
+}
+.btn:hover {
+    background-color: #21B573;
+    color: white;
+}
+
+.banner {
+    background-color: #F0FFF0;
+}
+
+.illustration img {
+    width: 554px;
+}
+
+.books img {
+    width: 66px;
+    height: 85px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+#online-class {
+    align-items: center;
+}
+
+.courses {
+    color: #413960;
+}
+.cal-peo img {
+    width: 24px;
+    height: 24px;
+}
+
+.man img {
+width: 120px;
+height: 120px;
+
+}
+
+
+.lower-part {
+    background-color: #282531;
+    color: white;
+    
+}
+
+.footer {
+    margin: 100px;
+    padding-bottom: 50px;
+}
